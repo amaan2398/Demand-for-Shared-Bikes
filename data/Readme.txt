@@ -8,7 +8,7 @@ day.csv have the following fields:
 	- season : season (1:spring, 2:summer, 3:fall, 4:winter)
 	- yr : year (0: 2018, 1:2019)
 	- mnth : month ( 1 to 12)
-	- holiday : weather day is a holiday or not (extracted from http://dchr.dc.gov/page/holiday-schedule)
+	- holiday : weather day is a holiday or not (extracted from http://dchr.dc.gov/page/holiday-schedules)
 	- weekday : day of the week
 	- workingday : if day is neither weekend nor holiday is 1, otherwise is 0.
 	+ weathersit : 
